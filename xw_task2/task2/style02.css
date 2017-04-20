@@ -1,0 +1,156 @@
+body{
+    background-color: #cccccc;
+    margin: 0 auto;
+}
+h2{
+    font-size: 18px;
+    color: #333333;
+}
+h3{
+    font-size: 16px;
+    color: #999;
+}
+h5{
+    font-size: 12px;
+    color: #aaaaaa;
+}
+.top{
+    width: 100%;
+    height: 60px;
+    background-color: #333;
+}
+.top img{
+    margin: 5px 5px;
+    height: 50px;
+}
+.top ul{
+    margin: 0 auto;
+    float: right;
+}
+.top ul li{
+    height: 60px;
+    font-size: 13px;
+    display: inline;
+    color: #fff;
+    line-height: 60px;
+    padding-right: 10px;
+}
+.top a{
+    color: white;
+    text-decoration: none;
+}
+.top a:hover{
+    color: #999;
+    text-decoration: none;
+}
+.body1,.body2,.body3,.body4,.body5{
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border: 1px solid #888;
+    box-shadow: 2px 2px 2px #666;
+}
+.body1 p{
+    font-size: 14px;
+    /*font-family: "Microsoft YaHei UI";*/
+    text-indent: 2em;
+    line-height: 2em;
+}
+.body2 p{
+    font-size: 14px;
+    /*font-family: "Microsoft YaHei UI";*/
+    text-indent: 2em;
+    line-height: 2em;
+}
+.body2 ul li{
+    list-style: none;
+}
+.body3 p{
+    font-size: 14px;
+    /*font-family: "Microsoft YaHei UI";*/
+    text-indent: 2em;
+    line-height: 2em;
+}
+.body3 ul li{
+    list-style: none;
+    border: 1px solid #aaaaaa;
+    width: 20%;
+    margin-bottom: 30px;
+}
+.body3 span{
+    font-size: 13px;
+    margin: 20px 25%;
+}
+.body3 img{
+    width: 90%;
+    margin: 5% 5%;
+}
+.body4 table{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid #999999;
+}
+.body4 ol li{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 2em;
+}
+.biaotou{
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: bold;
+}
+.total{
+    font-weight: bold;
+    background-color: #999999;
+    color: #000;
+}
+.body5 h2{
+    padding-left: 5px;
+    border-left: 3px solid #999999;
+}
+.body5_h2_span{
+    margin-left: 5px;
+    font-size: 16px;
+}
+.body5_label{
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+    line-height: 2em;
+    font-size: 14px;
+}
+.body5_label_p{
+    margin: 0 auto;
+    padding-left: 31%;
+    font-size: 10px;
+    color: #888;
+    line-height: 3em;
+}
+textarea{
+    width: 69%;
+    height: 50px;
+    margin: 5px auto;
+    float: right;
+}
+.buttonok{
+    width: 100%;
+    height: 30px;
+    color: #ffffff;
+    background-color: #3355ff;
+    border-radius: 10px;
+}
+.footing{
+    width: 100%;
+    height: 50px;
+    background-color: #000000;
+    color: white;
+    font-size: smaller;
+    text-align: center;
+    padding-top: 10px;
+}
+
